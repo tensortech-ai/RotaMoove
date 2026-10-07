@@ -1,0 +1,16 @@
+node_modules/
+.next/
+out/
+coverage/
+
+# Saida do Playwright
+test-results/
+playwright-report/
+blob-report/
+next-env.d.ts
+*.tsbuildinfo
+
+# Variaveis de ambiente: apenas .env.example e versionado
+.env
+.env.*
+!.env.example

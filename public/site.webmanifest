@@ -1,0 +1,13 @@
+{
+  "name": "RotaMoove",
+  "short_name": "RotaMoove",
+  "description": "Carretos e mudancas no estado de Sao Paulo.",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#F8FAFC",
+  "theme_color": "#1B5FCB",
+  "icons": [
+    { "src": "/icone.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
