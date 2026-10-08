@@ -18,7 +18,6 @@ export const BRAND = {
   legalNameShort: 'ESS Serviços de Transportes',
   tagline: 'Conectando clientes a profissionais de transporte',
   supportEmail: 'contato@rotamoove.com.br',
-  supportPhone: '(11) 98233-1118',
   /** WhatsApp oficial. O E.164 e o que wa.me exige. */
   whatsapp: '(11) 94979-2390',
   whatsappE164: '5511949792390',

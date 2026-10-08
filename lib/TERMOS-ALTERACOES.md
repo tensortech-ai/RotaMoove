@@ -117,10 +117,9 @@ A minuta repete `30.590.568.0001-70`, com ponto. A máscara oficial usa
 barra antes dos quatro dígitos do estabelecimento: **30.590.568/0001-70**.
 Os dígitos verificadores conferem; apenas a pontuação estava errada.
 
-### B3. Telefone — **acrescentado**
+### B3. Telefone — **removido**
 
-`(11) 98233-1118` não existia em lugar nenhum do projeto. Agora está no
-rodapé do site e na tela Sobre do aplicativo.
+`(11) 98233-1118` foi removido do projeto conforme solicitação do cliente.
 
 ---
 
