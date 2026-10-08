@@ -70,14 +70,6 @@ export default function Footer() {
                 </a>
               </li>
               <li>
-                <a
-                  href={`tel:${BRAND.supportPhone.replace(/\D/g, '')}`}
-                  className="text-sm text-ink-muted hover:text-primary hover:underline"
-                >
-                  {BRAND.supportPhone}
-                </a>
-              </li>
-              <li>
                 {/* rel="noopener" em todo link externo: sem ele a pagina
                     aberta ganha acesso a window.opener. */}
                 <a
